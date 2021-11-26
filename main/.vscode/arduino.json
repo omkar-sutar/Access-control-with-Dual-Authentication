@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "main.ino",
+    "output": "C:\\Users\\omkar\\Documents\\Arduino\\Access Control With Dual Authentication\\main\\op",
+    "port": "COM6"
+}

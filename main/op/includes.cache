@@ -1,0 +1,112 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\Access Control With Dual Authentication\\main\\op\\sketch\\main.ino.cpp",
+    "Include": "Keypad.h",
+    "Includepath": "C:\\Users\\omkar\\Documents\\Arduino\\libraries\\Keypad\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\Access Control With Dual Authentication\\main\\op\\sketch\\main.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\Access Control With Dual Authentication\\main\\op\\sketch\\main.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\Access Control With Dual Authentication\\main\\op\\sketch\\main.ino.cpp",
+    "Include": "MFRC522.h",
+    "Includepath": "C:\\Users\\omkar\\Documents\\Arduino\\libraries\\MFRC522\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\Access Control With Dual Authentication\\main\\op\\sketch\\main.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\Access Control With Dual Authentication\\main\\op\\sketch\\main.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\Access Control With Dual Authentication\\main\\op\\sketch\\main.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\libraries\\Keypad\\src\\Key.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\libraries\\Keypad\\src\\Keypad.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\libraries\\MFRC522\\src\\MFRC522.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\omkar\\Documents\\Arduino\\libraries\\MFRC522\\src\\MFRC522Extended.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
